@@ -1,0 +1,2 @@
+C:\Users\nick\Documents\Semester 2\Progamming\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\nick\Documents\Visual Studio 2012\Github\Hello-World\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
